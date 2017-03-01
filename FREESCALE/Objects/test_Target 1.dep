@@ -1,0 +1,49 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\test.c)(0x58B68E93)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I D:\ARM\CMSIS\Include -I .\Hardware-ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMK60DN512xxx10 -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM-o .\objects\test.o --omf_browse .\objects\test.crf --depend .\objects\test.d)
+I (.\Hardware\hardware.h)(0x58B687C2)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\core_cm4.h)(0x50062982)
+I (D:\keil ne\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\ARM\CMSIS\Include\core_cmInstr.h)(0x50595C8C)
+I (D:\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDA945C)
+I (D:\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F583CE6)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\system_MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\arm_math.h)(0x4F583CE6)
+I (D:\keil ne\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (D:\keil ne\ARM\ARMCC\include\math.h)(0x574E3E26)
+F (.\Hardware\hardware.c)(0x58B687C1)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I D:\ARM\CMSIS\Include -I .\Hardware-ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMK60DN512xxx10 -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM-o .\objects\hardware.o --omf_browse .\objects\hardware.crf --depend .\objects\hardware.d)
+I (Hardware\hardware.h)(0x58B687C2)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\core_cm4.h)(0x50062982)
+I (D:\keil ne\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\ARM\CMSIS\Include\core_cmInstr.h)(0x50595C8C)
+I (D:\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDA945C)
+I (D:\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F583CE6)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\system_MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\arm_math.h)(0x4F583CE6)
+I (D:\keil ne\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (D:\keil ne\ARM\ARMCC\include\math.h)(0x574E3E26)
+F (.\Hardware\pid.c)(0x58B15040)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I D:\ARM\CMSIS\Include -I .\Hardware-ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMK60DN512xxx10 -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM-o .\objects\pid.o --omf_browse .\objects\pid.crf --depend .\objects\pid.d)
+I (Hardware\pid.h)(0x58B1517F)
+F (.\Hardware\nrf24l01.c)(0x58B56B12)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I D:\ARM\CMSIS\Include -I .\Hardware-ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMK60DN512xxx10 -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM-o .\objects\nrf24l01.o --omf_browse .\objects\nrf24l01.crf --depend .\objects\nrf24l01.d)
+I (Hardware\nrf24l01.h)(0x58B536DB)
+I (Hardware\hardware.h)(0x58B687C2)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\core_cm4.h)(0x50062982)
+I (D:\keil ne\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\ARM\CMSIS\Include\core_cmInstr.h)(0x50595C8C)
+I (D:\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDA945C)
+I (D:\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F583CE6)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\system_MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\arm_math.h)(0x4F583CE6)
+I (D:\keil ne\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (D:\keil ne\ARM\ARMCC\include\math.h)(0x574E3E26)
+F (RTE\Device\MK60DN512xxx10\startup_MK60D10.s)(0x51679F86)(--cpu Cortex-M4 -g --apcs=interwork -ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "MK60DN512xxx10 SETA 1"--list .\listings\startup_mk60d10.lst --xref -o .\objects\startup_mk60d10.o --depend .\objects\startup_mk60d10.d)
+F (RTE\Device\MK60DN512xxx10\system_MK60D10.c)(0x51679F86)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I D:\ARM\CMSIS\Include -I .\Hardware-ID:\用户目录\Desktop\FREESCALE\RTE-I"D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include"-I"D:\keil ne\ARM\CMSIS\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMK60DN512xxx10 -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM-o .\objects\system_mk60d10.o --omf_browse .\objects\system_mk60d10.crf --depend .\objects\system_mk60d10.d)
+I (D:\keil ne\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\MK60D10.h)(0x5167A5DE)
+I (D:\ARM\CMSIS\Include\core_cm4.h)(0x50062982)
+I (D:\ARM\CMSIS\Include\core_cmInstr.h)(0x50595C8C)
+I (D:\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDA945C)
+I (D:\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F583CE6)
+I (D:\keil ne\ARM\PACK\Keil\Kinetis_K60_DFP\1.4.0\Device\Include\system_MK60D10.h)(0x5167A5DE)
